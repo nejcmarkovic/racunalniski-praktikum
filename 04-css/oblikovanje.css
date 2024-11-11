@@ -18,6 +18,15 @@ body {
     /*  Obojestranska poravnava besedila    */
     text-align: justify;
 }
+h1#330066
+h2{margin-top: 2em;
+border-width: 1px;
+border-top: 1px;
+border-color: #AAAAAA;
+border-style: solid;
+padding-top: 0.5em;}
+#uvod{padding: 2em ;
+    background-color: (51, 0, 102, 0.1)}
 
 /*  Odstranimo podčrtovanje povezav in outline (ta se včasih pokaže kot kvadratek okrog povezave)  */
 a { text-decoration: none; outline:none; }
